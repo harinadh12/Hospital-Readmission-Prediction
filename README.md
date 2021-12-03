@@ -8,10 +8,11 @@ A hospital readmission is an episode when a patient who had been discharged from
 
 The data in this problem is real-world data covering 10 years (1999–2008) of clinical care at 130 hospitals and integrated delivery networks throughout the United States. The specific patient cases used in this challenge also meet the following criteria:
 
-    * It is generated from a hospital admission with length of stay between 1 and 14 days
-    * Diabetes was entered to the system as one of the diagnoses
-    * Laboratory tests were performed during the encounter
-    * Medications were administered during the encounter
+ * It is generated from a hospital admission with length of stay between 1 and 14 days
+ * Diabetes was entered to the system as one of the diagnoses
+ * Laboratory tests were performed during the encounter
+ * Medications were administered during the encounter
+
 ## The challenge: Readmissions
 
 In this machine learning problem, you have the exacting task of trying to predict whether or not a patient will be readmitted to the hospital. The target here takes on binary values where 0 implies that the patient was not readmitted, and 1 implies that the patient was readmitted. You are predicting the latter.
