@@ -24,8 +24,8 @@ In the data section, you can download hm7-train.csv to help you develop your mod
 Approximately 25% of the hm7-test data is used to calculate a public log loss value -- you and all other competing teams can see this value. The remaining 75% of the test data is used to evaluate your private competition score -- no one other than the administrators can see this score until the competition is closed. The final quantitative ranking of your model performance will be based on this 70% holdout data set. 
 
 ## File descriptions
-  * train.csv - the training set
-  * test.csv - the test set
+  * hm7-Train.csv - the training set
+  * hm7-Test.csv - the test set
 
 ## Data fields
  * Patient ID: Unique identifier of a patient; Nominal
