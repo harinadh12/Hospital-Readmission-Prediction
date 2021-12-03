@@ -1,5 +1,9 @@
 # Hospital-Readmission-Prediction
 
+This Classification problem is hosted as an in-class competition for course Intelligent Data Analytics during my masters in Data Science and Analytics at University of Oklahoma.
+
+Team Name : **_Stronger With the Force!_**
+
 A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program.
 
 The data in this problem is real-world data covering 10 years (1999–2008) of clinical care at 130 hospitals and integrated delivery networks throughout the United States. The specific patient cases used in this challenge also meet the following criteria:
@@ -119,3 +123,5 @@ Approximately 25% of the hm7-test data is used to calculate a public log loss va
   * 26: Transfer from Hospice
 
 Code for this Problem can be found here [Hospital Readmissions](./hosp_readmission.R)
+
+Kaggle Competition and LeaderBoard can be accessed here [Kaggle](https://www.kaggle.com/c/5103-ida-hm7-2021/leaderboard)
